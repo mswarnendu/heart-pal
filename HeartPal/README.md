@@ -30,7 +30,7 @@ HeartPal isn't a medical tool. It's an awareness tool. Something you check once 
 
 ## Features
 
-- **Monthly risk assessment** — 21-question health questionnaire covering lifestyle, medical history, and demographics
+- **Monthly risk assessment** — Health questionnaire covering lifestyle, medical history, and demographics
 - **ML-powered scoring** — logistic regression model trained on the CDC BRFSS dataset
 - **Personalized risk factors** — shows which of your inputs are contributing most to your score
 - **Risk history chart** — tracks your score over time so you can see progress
