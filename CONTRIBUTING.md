@@ -140,6 +140,6 @@ When opening an issue, please explain:
 
 ## Thank You
 
-Every contribution—whether it's code, documentation, bug reports, or ideas—helps make HeartPal better for everyone.
+Every contribution, whether it's code, documentation, bug reports, or ideas, helps make HeartPal better for everyone.
 
 Thank you for helping keep **HeartPal** secure, reliable, and easy to use!
