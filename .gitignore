@@ -1,0 +1,4 @@
+heart_app.db
+__pycache__/
+*.pyc
+.env
